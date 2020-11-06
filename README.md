@@ -1,6 +1,6 @@
 # BotShell
 
-[![N|Solid](https://miroi.ml/micodev/botShell/master/images/MIRO.png?token=AEF6B4UU3ONGVXAPOKR2VDS7CMQMW)](https://t.me/anime19)
+[![N|Solid](https://miroi.ml/MIRO.png?token=AEF6B4UU3ONGVXAPOKR2VDS7CMQMW)](https://t.me/anime19)
 
 > 👏 Thanks in advance for any support you make for this project
 
