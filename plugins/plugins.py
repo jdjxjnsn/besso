@@ -140,9 +140,6 @@ async def run(message, matches, chat_id, step, crons=None):
 plugin = {
     "name": "Plugins",
     "desc": "Show the plugins",
-   "usage": ["❏︙/flood `disable` <امر تعطيل الاسبام>"],
-   "usage": ["❏︙/flood `enable` <امر تفعيل الاسبام>"],
-   "usage": ["❏︙/plugins `enableAll` <امر تفعيل الاضافه>"],
     "run": run,
     "sudo": True,
     "patterns": [
